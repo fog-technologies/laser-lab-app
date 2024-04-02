@@ -1,1 +1,1 @@
-# laser-lab-app
+# Laser Lab Application
